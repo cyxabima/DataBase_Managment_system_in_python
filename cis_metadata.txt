@@ -1,0 +1,1 @@
+[{"field": "Student", "type": "text"}, {"field": "Roll no.", "type": "text"}, {"field": "Maths_mark", "type": "number"}, {"field": "Cp_marks", "type": "number"}, {"field": "Fce_marks", "type": "Number"}, {"field": "BEE_marks", "type": "Number"}]
