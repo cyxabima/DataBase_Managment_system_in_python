@@ -1,1 +1,1 @@
-["UKasha", "cis", "EE"]
+["cis", "EE"]
